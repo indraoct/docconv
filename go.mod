@@ -1,4 +1,4 @@
-module code.sajari.com/docconv
+module github.com/indraoct/docconv
 
 go 1.14
 
